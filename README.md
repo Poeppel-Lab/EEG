@@ -1,7 +1,7 @@
 # EEG
 EEG pipelines
 
-## [Python](/python)
+## [EEG - Python](/python)
 - Contributor: HaoZ
 
 - Date: Friday, October 4, 2019
